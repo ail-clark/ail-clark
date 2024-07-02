@@ -2,7 +2,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Project</b>
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web Apps</b>
 - <b>C#</b>
 - <b>Python</b>
 
