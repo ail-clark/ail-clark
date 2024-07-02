@@ -1,5 +1,6 @@
-<h1>Hi, I'm Ailene! <br/><a href="https://github.com/ail-clark">Recent Computer Science Graduate</a>
-<h2>Software Development Projects:</h2>
+# Hi, I'm Ailene! 
+# Recent Computer Science Graduate
+## Software Development Projects:
 
 - <b>Data Structures and Algorithms Project</b>
 - <b>Full Stack Web Apps</b>
